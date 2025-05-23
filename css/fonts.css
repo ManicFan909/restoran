@@ -1,0 +1,62 @@
+@font-face {
+  font-family: Tinos;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Tinos"),
+       url("../fonts/TinosRegular.woff2") format('woff2'),
+       url("../fonts/TinosRegular.woff") format('woff'),
+       url("../fonts/TinosRegular.eot") format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Cookie;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Cookie"),
+       url("../fonts/CookieRegular.woff2") format('woff2'),
+       url("../fonts/CookieRegular.woff") format('woff'),
+       url("../fonts/CookieRegular.eot") format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-weight: 400;
+  font-style: normal;
+  src: local("OpenSans"),
+       url("../fonts/OpenSansRegular.woff2") format('woff2'),
+       url("../fonts/OpenSansRegular.woff") format('woff'),
+       url("../fonts/OpenSansRegular.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: OpenSans;
+  font-weight: 700;
+  font-style: normal;
+  src: local("Cookie"),
+       url("../fonts/OpenSansBold.woff2") format('woff2'),
+       url("../fonts/OpenSansBold.woff") format('woff'),
+       url("../fonts/OpenSansBold.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: OpenSans;
+  font-weight: 400;
+  font-style: italic;
+  src: local("Cookie"),
+       url("../fonts/OpenSansItalic.woff2") format('woff2'),
+       url("../fonts/OpenSansItalic.woff") format('woff'),
+       url("../fonts/OpenSansItalic.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: OpenSans;
+  font-weight: 600;
+  font-style: normal;
+  src: local("Cookie"),
+       url("../fonts/OpenSansSemiBold.woff2") format('woff2'),
+       url("../fonts/OpenSansSemiBold.woff") format('woff'),
+       url("../fonts/OpenSansSemiBold.eot") format('eot');
+  font-display: swap;
+}
